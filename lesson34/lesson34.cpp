@@ -7,14 +7,12 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    cout << "new branch testcode";
 
-    cout << "new branch testcode new";
 
 
 
     cout << "master branch";
-
-
+    cout << "Git";
+    cout << "Git";
     cout << "master branch new";
 }
